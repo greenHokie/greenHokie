@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @greenHokie, a project engineer by day and grad student by night.
-- 👀 I’m interested in running, sustainable design, and R (among other things).
-- 🌱 I’m currently finishing a MS in Data Science through Willamette University.
+- 👋 Hi, I’m @greenHokie, a data scientist by day and running coach by night.
+- 👀 I’m interested in nuclear energy, sustainable design, and R (among other things).
+- 🌱 I’m currently relearning SQL and Japanese.
 
 - 📫 I can be reached through LinkedIn.com/in/heather-rugnetta/.
 
